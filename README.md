@@ -6,6 +6,8 @@ Agenda que registrar y regula sus tareas pendientes sean importantes o no
 
 LINK https://django-auth-crud-r374.onrender.com/
 
+LINK VIDEO : https://www.youtube.com/watch?v=QfMHrplaaRQ&ab_channel=eugeniomessineo
+
 ![image](https://user-images.githubusercontent.com/70983593/224024365-74a38daa-5c7b-4fbb-a561-1338d21c21ed.png)
 
 
